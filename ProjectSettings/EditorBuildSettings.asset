@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UltimateDevKit/Scenes/UlitmateDevKit.unity
     guid: 2128edce9f4590d43b17e10d496afea2
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: df26feefaf93990428c0253fa9b2fb61,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b58ff82bb3c17a4cb1b82bf06f4e500,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5e1239354052d6746bf71cac08035153,
+      type: 2}
